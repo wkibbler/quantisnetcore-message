@@ -1,5 +1,5 @@
 /* eslint-disable no-underscore-dangle */
-const bitcore = require('@quantisnetevo/quantisnetcore-lib');
+const bitcore = require('quantisnetcore-lib');
 const chai = require('chai');
 const Message = require('../');
 
