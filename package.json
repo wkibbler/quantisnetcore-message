@@ -1,5 +1,5 @@
 {
-  "name": "@quantisnetevo/quantisnetcore-message",
+  "name": "quantisnetcore-message",
   "version": "2.0.0",
   "description": "Message Verification and Signing for quantisnetcore-lib",
   "author": "Quantsisnet Core Group, Inc.",
@@ -23,10 +23,10 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/quantisnetevo/quantisnetcore-message.git"
+    "url": "https://github.com/wkibbler/quantisnetcore-message.git"
   },
   "dependencies": {
-    "@quantisnetevo/quantisnetcore-lib": "^0.16.8"
+    "quantisnetcore-lib": "git://github.com/wkibbler/quantisnetcore-lib.git"
   },
   "devDependencies": {
     "chai": "~4.2.0",
